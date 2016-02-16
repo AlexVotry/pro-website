@@ -1,0 +1,96 @@
+
+body {
+  background-color: #404040;
+}
+h3 {
+  color: #F0F0F0;
+  text-shadow: 2px 2px 2px #708C28;
+}
+.tab-text {
+  color: #EA8C84;
+}
+.tab-text:hover {
+  color: #6C3C37;
+  background-color: #6C3C37;
+}
+.navbar-brand.green {
+  margin-top: 15px;
+  color: #708C28;
+  font-family: fantasy;
+  font-size: 3em;
+  text-shadow: 2px 2px #000;
+}
+.blue {
+  color: #0000cd;
+}
+.black {
+  color: #000;
+}
+.purple {
+  color: #CC97CC;
+}
+.fun{
+  color: #5D8CBC;
+}
+.froly {
+  color: #F37678;
+}
+.viking {
+    color: #61CCCD;
+}
+.linesOfCode {
+  color: white;
+  background-color: #2D2D2D;
+  margin-left: -5%;
+}
+.frm {
+  color: #A2BF57;
+  background-color:	#708C28;
+}
+#sub-button {
+  color: #A2BF57;
+  background-color: #556828;
+}
+#sub-button:hover {
+  color: #556828;
+  background-color: #A2BF57;
+}
+#codemonkey {
+  background-color: #BC5048;
+}
+.crsl:hover {
+  background-color: #6C3C37;
+}
+#banner {
+  background: #343434;
+  box-shadow: 3px 3px 8px #000;
+}
+.ribbon {
+  box-sizing: border-box;
+  width: 60%;
+  height: 300px;
+  padding-top: 65px;
+  margin-left: 10%;
+  margin-top: -50px;
+  position: relative;
+  background: #2AA2D5;
+  color: white;
+  box-shadow: 5px 0px 3px #2d2d2d;
+  z-index: -1;
+}
+.ribbon:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  border-bottom: 40px solid #404040;
+  border-left: 110px solid transparent;
+  border-right: 110px solid transparent;
+}
+.medal {
+  border: 3px solid gold;
+  box-shadow: 5px 0px 3px #2d2d2d;
+  z-index: 1;
+}
